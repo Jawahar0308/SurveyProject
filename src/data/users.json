@@ -1,0 +1,10 @@
+[
+    {
+        "email": "test@example.com",
+        "hasTakenSurvey": true
+    },
+    {
+        "email": "user@example.com",
+        "hasTakenSurvey": false
+    }
+]
